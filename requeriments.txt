@@ -1,2 +1,2 @@
-pygame=2.5.0
-pyinstaller=5.13.0
+pygame==2.5.0
+pyinstaller==5.13.0
