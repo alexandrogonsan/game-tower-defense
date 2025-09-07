@@ -17,10 +17,19 @@ With each victory, you will earn rewards to enhance your Guardians and fortifica
 
 Are you ready to take up the mantle of the Guardians and defend the realm against darkness? Unleash your tactical brilliance, harness the power of your Guardians, and embrace the journey to become the true Defenders of the Realm!
 
+Commits
+=======
+Caso ocorra um erro como o abaixo tente no Linux.
+
+.. code-block:: shell
+	error: invalid path 'longintrepr.h:Zone.Identifier'
+	error: could not detach HEAD
+
 ...
 ===
 Rodar `buildozer android clean` antes de `./longintrepr.h.copy.py`
-    ```
+
+.. code-block:: shell
     export PATH=$PATH:~/.local/bin/
 	buildozer -v android debug
 	sudo su
